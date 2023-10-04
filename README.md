@@ -1,5 +1,3 @@
-
-
 # Samtools > http://www.htslib.org/
 
 # Samtools is a suite of programs for interacting with high-throughput sequencing data. It consists of three separate repositories:
